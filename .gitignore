@@ -1,5 +1,6 @@
 target/
 build/
 .settings/
+src/.DS_Store
 .classpath
 .project
