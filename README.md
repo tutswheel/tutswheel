@@ -1,7 +1,7 @@
 tutswheel
 =========
 
-~Project Setup Description
+##Project Setup Description
 
 1. Create project Id on App console.
 
@@ -17,17 +17,17 @@ tutswheel
 
 7. Click Finish to create the project.
 
-~Maven Configurations
+##Maven Configurations
 
 1. Copy pom.xml file, Run clean & install, eclipse commands.
 2. Deploy on GAE localhost.(Within Eclipse)
 
-~Run App on terminal
+##Run App on terminal
 
 1. Navigate to directory and run mvn clean install
 2. Fire up server with command: mvn appengine:devserver
 
-~To push app in GAE cloud
+##To push app in GAE cloud
 1. Run command mvn appengine:update. 
 
 
